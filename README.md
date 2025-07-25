@@ -12,11 +12,6 @@ This project is a comprehensive real-time **computer vision system** designed to
 
 ---
 
-You can insert this version at the top of your `README.md`, replacing or expanding the current project introduction. Let me know if you want it tailored more for academic submission or GitHub audience.
-
-
----
-
 ## System Modes
 
 ### 1. **Inspection Mode**
