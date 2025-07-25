@@ -1,0 +1,12 @@
+names:
+- boots
+- dust mask
+- glass
+- gloves
+- helmet
+- person
+- safety vest
+nc: 7
+test: Annotate_PPE-4/test
+train: Annotate_PPE-4/train
+val: Annotate_PPE-4/valid
