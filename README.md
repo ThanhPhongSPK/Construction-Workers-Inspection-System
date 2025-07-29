@@ -143,7 +143,7 @@ Watch the full system demo here:
 [![Watch the demo](https://img.youtube.com/vi/BOTAOOJb7Rg/hqdefault.jpg)](https://www.youtube.com/watch?v=BOTAOOJb7Rg)
 
 
-## 👨‍🏭 Contributors
+## Contributors
 
 Final Term Project – Ho Chi Minh City University of Technology and Education
 **Instructor**: Ph.D. Nguyen Van Thai
