@@ -146,7 +146,7 @@ Watch the full system demo here:
 ## Contributors
 
 Final Term Project – Ho Chi Minh City University of Technology and Education
-**Instructor**: Ph.D. Nguyen Van Thai
+**Instructor**: Ph.D. Nguyen Van Thai.
 
 **Performers**:
 
