@@ -61,7 +61,7 @@ This project is a comprehensive real-time **computer vision system** designed to
 
 ## How to Run the Project
 
-### 🔧 Requirements
+### Requirements
 
 Install dependencies:
 
@@ -151,7 +151,20 @@ Final Term Project – Ho Chi Minh City University of Technology and Education
 **Performers**:
 
 * Dinh Duc Duy – 22134001
-* Le Quoc Thinh – 21134013
-* Huynh Thanh Phong – 21134009
+* Le Quoc Thinh – 22134013
+* Huynh Thanh Phong – 22134009
 
 ---
+
+## 📄 Publication
+
+This project was published in the **National Scientific Conference on Advances in Civil Engineering, Architecture, Economy, and Technology (ACEAT 2024)**:
+
+> Nguyen Van Thai, Duong Chau Sanh, Huynh Thanh Phong, Le Quoc Thinh, Dinh Duc Duy.  
+> *Computer Vision and Artificial Intelligence in the Construction Industry*.  
+> **Proceedings of the National Scientific Conference on Advances in Civil Engineering, Architecture, Economy, and Technology (ACEAT 2024)**, Vol. 2, 2024, pp. 944–949.  
+> https://nxbxaydung.com.vn/ebook-free/12144/0/422/
+> ISBN: 978-604-82-8109-0.
+
+
+
